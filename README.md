@@ -19,11 +19,11 @@ PURCHASING_PRODUCT .ipynb
 _files_:-record.json
       adding_items_in_inventory.ipynb
       
-displaying current items present in the inventory
+# displaying current items present in the inventory
 
-adding more items in the inventory
+# adding more items in the inventory
 
-checking if items is present or not in the inventory
+# checking if items is present or not in the inventory
  
  ->if present updating the quantity of that item
 
@@ -34,24 +34,24 @@ checking if items is present or not in the inventory
  _files_:-PURCHASING_PRODUCT .ipynb
         sales.json
         
- displaying the customer the items present in the inventory
+ # displaying the customer the items present in the inventory
  
- when customer enters the product_id telling him whether that item is present or not in store
+ # when customer enters the product_id telling him whether that item is present or not in store
   
   ->if present then displaying the customer product name and price of that item
   
   ->if its not present then displaying items not present in the store
  
- checking if the quantity entered by the customer is presnt in the store or not
+ # checking if the quantity entered by the customer is presnt in the store or not
    ->if present then prinitng the invoice
  
- printing the invoice which contains product name,product price,product quantity and time of purchase 
+ # printing the invoice which contains product name,product price,product quantity and time of purchase 
   
-  when  x quantity of item is purchase by customer it is subtracted from original quantity and updated in record.json file 
+  # when  x quantity of item is purchase by customer it is subtracted from original quantity and updated in record.json file 
  
- when item is purchased it updated in sales.json file
+  # when item is purchased it updated in sales.json file
  
- displaying the sales record
+ # displaying the sales record
 
 ## PRODUCT FEATURES(product_id,prod_name,prod_brand,prod_category,prod_price,prod_quantity,time_of_purchase)
 
