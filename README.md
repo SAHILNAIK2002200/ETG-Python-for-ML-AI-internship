@@ -24,9 +24,12 @@ displaying current items present in the inventory
 adding more items in the inventory
 
 checking if items is present or not in the inventory
-->if present updating the quantity of that item
-->if not present then adding it as a new item in the inventory
-->if new item added or quantity is increased then updating the record.json file
+ 
+ ->if present updating the quantity of that item
+
+ ->if not present then adding it as a new item in the inventory
+ 
+ ->if new item added or quantity is increased then updating the record.json file
  
  _files_:-PURCHASING_PRODUCT .ipynb
         sales.json
@@ -34,7 +37,9 @@ checking if items is present or not in the inventory
  displaying the customer the items present in the inventory
  
  when customer enters the product_id telling him whether that item is present or not in store
+  
   ->if present then displaying the customer product name and price of that item
+  
   ->if its not present then displaying items not present in the store
  
  checking if the quantity entered by the customer is presnt in the store or not
