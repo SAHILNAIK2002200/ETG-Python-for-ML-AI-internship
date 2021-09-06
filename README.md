@@ -24,8 +24,8 @@ displaying current items present in the inventory
 adding more items in the inventory
 
 checking if items is present or not in the inventory
-  ->if present updating the quantity of that item
-  ->if not present then adding it as a new item in the inventory
+  if present updating the quantity of that item
+  if not present then adding it as a new item in the inventory
  if new item added or quantity is increased then updating the record.json file
  
  _files_:-PURCHASING_PRODUCT .ipynb
