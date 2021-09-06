@@ -10,14 +10,16 @@ In which we can add items to inventory,see all the items currently present in th
 printing the invoice
 
 ## FILES
-record.json
-sales.json
-adding_items_in_inventory.ipynb
-PURCHASING_PRODUCT .ipynb
+record.json.
+
+sales.json.
+
+adding_items_in_inventory.ipynb.
+
+PURCHASING_PRODUCT .ipynb.
 
 ## FEATURES
-_files_:-record.json
-      adding_items_in_inventory.ipynb
+_files_:- record.json , adding_items_in_inventory.ipynb
       
  displaying current items present in the inventory
 
@@ -31,8 +33,7 @@ _files_:-record.json
  
  ->if new item added or quantity is increased then updating the record.json file
  
- _files_:-PURCHASING_PRODUCT .ipynb
-        sales.json
+ _files_:- PURCHASING_PRODUCT.ipynb, sales.json
         
   displaying the customer the items present in the inventory
  
